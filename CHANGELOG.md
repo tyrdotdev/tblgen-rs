@@ -1,5 +1,17 @@
 # Changelog
 
+## Unreleased
+
+### Fixed
+
+- Fix build on Windows/MSVC (#73, #82)
+
+## [0.9.1] - 2026-03-20
+
+### Fixed
+
+- Fix dangling pointer in SourceLocation wrappers (#61)
+
 ## [0.9.0] - 2026-03-20
 
 ### Added
@@ -18,7 +30,7 @@
 
 - Default LLVM version is now 22
 
-## [0.8.0] - Unreleased
+## [0.8.0] - 2026-03-06
 
 ### Fixed
 
